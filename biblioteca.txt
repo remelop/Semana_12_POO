@@ -1,0 +1,17 @@
+{
+    "libros": {},
+    "usuarios": {
+        "001": {
+            "nombre": "Ronny Melo",
+            "id_usuario": "001",
+            "libros_prestados": [
+                {
+                    "titulo": "Juego de tronos",
+                    "autor": "George",
+                    "categoria": "ficcion",
+                    "isbn": "001"
+                }
+            ]
+        }
+    }
+}
